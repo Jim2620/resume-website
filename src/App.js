@@ -1,20 +1,33 @@
-import React from "react";
+import React, { useContext } from "react";
 import "./App.css";
-import MyLinks from "./Header.js";
-import MySummary from "./MySummary.js";
-import Experience from "./ExperienceSection.js"; 
-import Education from "./EducationSection.js";
-import Skills from "./SkillsSection.js";
+import Header from "./components/Header";
+import MySummary from "./MySummary";
+import ExperienceSection from "./components/ExperienceSection";
+import EducationSection from "./components/EducationSection";
+import SkillsSection from "./components/SkillsSection";
+import moonIcon from "./assets/moon.svg";
+import sunIcon from "./assets/sun.svg";
+import { ThemeContext } from "./ThemeContext";
 
 function App() {
+  const { theme, toggleTheme } = useContext(ThemeContext);
+
+  <button className="theme-toggle-button" onClick={toggleTheme}>
+    <img
+      src={theme === "light" ? moonIcon : sunIcon}
+      alt={theme === "light" ? "Moon icon" : "Sun icon"}
+      className="theme-icon"
+    />
+  </button>;
+
   return (
     <div className="resumeBody">
       <div className="page">
-        <MyLinks />
+        <Header />
         <MySummary />
-        <Experience />
-        <Education />
-        <Skills />
+        <ExperienceSection />
+        <EducationSection />
+        <SkillsSection />
       </div>
     </div>
   );

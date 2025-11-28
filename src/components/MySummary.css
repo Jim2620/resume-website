@@ -1,0 +1,11 @@
+.resumeSection h2 {
+  margin-bottom: clamp(4px, 1.5vw, 6px);
+}
+
+.summaryText {
+  text-align: justify;
+  margin: 0 auto 1.2em;
+  font-size: clamp(12px, 2vw, 16px);
+  font-family: "Times New Roman", Times, serif;
+  color: var(--text-color);
+}

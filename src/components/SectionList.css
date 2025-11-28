@@ -1,0 +1,75 @@
+.resumeSection {
+  margin-bottom: 2rem;
+}
+
+.resumeSection h2 {
+  margin-bottom: clamp(4px, 1.5vw, 6px);
+}
+
+.jobSection {
+  margin-bottom: 1.5rem;
+}
+
+.companyLine {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.leftItems {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.companyName,
+.companyLocation {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.companyName {
+  color: var(--company-name-color, var(--text-color));
+  font-size: clamp(16px, 3vw, 20px);
+}
+
+.companyLocation {
+  color: var(--company-name-color, var(--text-color));
+  font-size: clamp(12px, 2.2vw, 14px);
+}
+
+.timeWorked {
+  color: var(--company-name-color, var(--text-color));
+  font-size: clamp(16px, 3vw, 20px);
+  display: inline-block;
+  margin-left: auto;
+}
+
+.companyRole {
+  font-style: italic;
+  margin-bottom: 5px;
+  font-size: clamp(14px, 2.5vw, 18px);
+}
+
+.jobDetails {
+  text-align: justify;
+  margin: 0 auto 1.2em;
+  font-size: clamp(12px, 2vw, 16px);
+  font-family: "Times New Roman", Times, serif;
+  color: var(--text-color);
+}
+
+@media (max-width: 600px) {
+  .companyLine {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .timeWorked {
+    margin-left: 0;
+  }
+}
