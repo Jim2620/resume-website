@@ -1,0 +1,8 @@
+.resumeSection h2 {
+   color: var(--company-name-color, var(--text-color));
+  margin-bottom: clamp(4px, 1.5vw, 6px);
+}
+
+.resumeSection p {
+  color: var(--text-color);
+}
