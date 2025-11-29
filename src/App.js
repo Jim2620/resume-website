@@ -12,17 +12,17 @@ import { ThemeContext } from "./ThemeContext";
 function App() {
   const { theme, toggleTheme } = useContext(ThemeContext);
 
-  <button className="theme-toggle-button" onClick={toggleTheme}>
-    <img
-      src={theme === "light" ? moonIcon : sunIcon}
-      alt={theme === "light" ? "Moon icon" : "Sun icon"}
-      className="theme-icon"
-    />
-  </button>;
-
   return (
     <div className="resumeBody">
       <div className="page">
+        <button className="theme-toggle-button" onClick={toggleTheme}>
+          <img
+            src={theme === "light" ? moonIcon : sunIcon}
+            alt={theme === "light" ? "Moon icon" : "Sun icon"}
+            className="theme-icon"
+          />
+        </button>
+        
         <Header />
         <MySummary />
         <ExperienceSection />
