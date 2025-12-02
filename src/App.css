@@ -67,3 +67,29 @@ body.dark-mode {
     border-radius: 0;
   }
 }
+
+a {
+  color: #1e40af; 
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #1e40af; 
+}
+
+body.dark-mode a {
+  color: #38bdf8; 
+}
+
+body.dark-mode a:visited {
+  color: #38bdf8; 
+}
+
+a:hover {
+  text-decoration: none;
+  color: #2563eb; 
+}
+
+body.dark-mode a:hover {
+  color: #60a5fa; 
+}
