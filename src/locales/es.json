@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "title": "Resumen",
+    "text": "Ingeniero de Aseguramiento de Calidad con más de 3 años de experiencia práctica construyendo suites de pruebas automatizadas en JavaScript. Experto en Cypress, Selenium y Playwright, con éxito comprobado en la migración de procesos de prueba manual a automatización, logrando mejoras medibles en cobertura y eficiencia. Colaborador sólido que conecta los equipos de QA, desarrollo y producto para entregar software confiable."
+  },
+  "experienceTitle": "Experiencia",
+  "experience": {
+    "docgo": {
+      "companyName": "DocGo",
+      "companyLocation": "Nueva York, Nueva York",
+      "timeWorked": "Septiembre 2024 - Junio 2025",
+      "companyRole": "Ingeniero de Aseguramiento de Calidad",
+      "jobDetails": [
+        "Construí y mantuve suites de pruebas E2E, funcionales y de regresión utilizando Selenium en un entorno UNIX",
+        "Ayudé a liderar la migración de más de 200 casos de prueba a Qase.io usando scripting en Javascript y Bash, mejorando la cobertura de regresión en un 15% y acelerando la transición de pruebas manuales a automatizadas",
+        "Proporcioné pruebas manuales para aplicaciones móviles/dispositivos iOS según se necesitara",
+        "Colaboré con los equipos de producto, desarrollo y QA para alinear las estrategias de prueba con los objetivos de lanzamiento"
+      ]
+    },
+    "tovuti": {
+      "companyName": "Tovuti, Inc",
+      "companyLocation": "Boise, Idaho",
+      "timeWorked": "Enero 2022 - Enero 2024",
+      "companyRole": "Ingeniero de Aseguramiento de Calidad",
+      "jobDetails": [
+        "Desarrollé automatización de pruebas E2E y API integral utilizando Cypress, reduciendo las pruebas de regresión y detectando defectos antes en el ciclo de desarrollo",
+        "Validé sistemas backend mediante consultas MySQL y orquesté ejecuciones de pruebas usando scripts Bash",
+        "Gestioné dashboards semanales de QA, siguiendo resultados de pruebas, tendencias de defectos y métricas de preparación de lanzamiento",
+        "Lideré demos interfuncionales para entrenar a equipos no técnicos en nuevas funcionalidades y características del producto",
+        "Contribuí con correcciones de bugs en la base de código PHP y gestioné la documentación de pruebas en Jira y Testrail",
+        "Herramientas: GitLab, AWS Device Farm (iOS/Android), OAuth, Okta, pipelines CI/CD"
+      ]
+    }
+  }
+}

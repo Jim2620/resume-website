@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "title": "Résumé",
+    "text": "Ingénieur Assurance Qualité avec plus de 3 ans d'expérience pratique dans la création de suites de tests automatisés en JavaScript. Compétent en Cypress, Selenium et Playwright, avec un succès prouvé dans la migration des processus de test manuels vers l'automatisation — offrant des améliorations mesurables en couverture et en efficacité. Collaborateur solide, reliant les équipes QA, développement et produit pour livrer un logiciel fiable."
+  },
+  "experienceTitle": "Expérience",
+  "experience": {
+    "docgo": {
+      "companyName": "DocGo",
+      "companyLocation": "New York, New York",
+      "timeWorked": "Septembre 2024 - Juin 2025",
+      "companyRole": "Ingénieur Assurance Qualité",
+      "jobDetails": [
+        "Création et maintenance de suites de tests E2E, fonctionnels et de régression utilisant Selenium dans un environnement UNIX",
+        "Participation à la migration de plus de 200 cas de test vers Qase.io en utilisant des scripts Javascript et Bash, améliorant la couverture de régression de 15 % et accélérant la transition des tests manuels vers l'automatisation",
+        "Réalisation de tests manuels pour les applications et appareils iOS selon les besoins",
+        "Collaboration avec les équipes produit, développement et QA pour aligner les stratégies de test sur les objectifs de sortie"
+      ]
+    },
+    "tovuti": {
+      "companyName": "Tovuti, Inc",
+      "companyLocation": "Boise, Idaho",
+      "timeWorked": "Janvier 2022 - Janvier 2024",
+      "companyRole": "Ingénieur Assurance Qualité",
+      "jobDetails": [
+        "Développement d'automatisation complète des tests E2E et API avec Cypress, réduisant les tests de régression et détectant les défauts plus tôt dans le cycle de développement",
+        "Validation des systèmes backend via des requêtes MySQL et orchestration des exécutions de tests avec des scripts Bash",
+        "Gestion de dashboards QA hebdomadaires, suivant les résultats des tests, les tendances des défauts et les métriques de préparation aux sorties",
+        "Conduite de démonstrations interfonctionnelles pour former les équipes non techniques aux nouvelles fonctionnalités et au fonctionnement du produit",
+        "Contribution aux corrections de bugs dans la base de code PHP et gestion de la documentation de tests dans Jira et Testrail",
+        "Outils : GitLab, AWS Device Farm (iOS/Android), OAuth, Okta, pipelines CI/CD"
+      ]
+    }
+  }
+}

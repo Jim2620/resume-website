@@ -1,5 +1,5 @@
 import React from "react";
-import { skillsData } from "../Experience";
+import { skillsData } from "../../Skills";
 import "./SkillsSection.css";
 
 export default function SkillsSection() {

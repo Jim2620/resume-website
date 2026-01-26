@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "title": "Summary",
+    "text": "Quality Assurance Engineer with 3+ years of hands-on experience building automated test suites in JavaScript. Skilled in Cypress, Selenium, and Playwright, with proven success migrating manual test processes to automation—delivering measurable improvements in coverage and efficiency. Strong collaborator who bridges QA, development, and product teams to ship reliable software."
+  },
+  "experienceTitle": "Experience",
+  "experience": {
+    "docgo": {
+      "companyName": "DocGo",
+      "companyLocation": "New York, New York",
+      "timeWorked": "September 2024 - June 2025",
+      "companyRole": "Quality Assurance Engineer",
+      "jobDetails": [
+        "Built and maintained E2E, functional and regression test suites using Selenium in a UNIX environment",
+        "Helped lead migration of 200+ test cases to Qase.io using Javascript and Bash scripting, improving regression coverage by 15% and accelerating manual-to-automation handoffs",
+        "Provided manual testing for mobile app/devices for iOS users as needed",
+        "Partnered with product, development, and QA teams to align test strategies with release goals"
+      ]
+    },
+    "tovuti": {
+      "companyName": "Tovuti, Inc",
+      "companyLocation": "Boise, Idaho",
+      "timeWorked": "January 2022 - January 2024",
+      "companyRole": "Quality Assurance Engineer",
+      "jobDetails": [
+        "Developed comprehensive E2E and API test automation using Cypress, reducing regression testing and catching defects earlier in the development cycle",
+        "Validated backend systems through MySQL queries and orchestrated test runs using Bash scripts",
+        "Owned weekly QA dashboards tracking test results, defect trends and release readiness metrics",
+        "Led  cross-functional demos to train non-technical teams on new features and product functionality",
+        "Contributed bug fixes to the PHP codebase and managed test documentation in Jira and Testrail",
+        "Tools: GitLab, AWS Device Farm (iOS/Android), OAuth, Okta, CI/CD pipelines"
+      ]
+    },
+    "skills": {
+      "testFrameWorks": "Cypress, Selenium, Playwright, Appium, Mocha",
+      "Languages": "Javascript, Typescript, Bash, PHP, SQL",
+      "toolsAndPlatforms": "Postman, Docker, AWS, Jira, Confluence, TestRail, Qase.io, Git, Ninety",
+      "other": "React, Express, MySQL, CI/CD, REST APIs"
+    }
+  }
+}
