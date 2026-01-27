@@ -3,7 +3,7 @@ import "./App.css";
 import Header from "./components/Header/Header";
 import MySummary from "./components/MySummary/MySummary";
 import ExperienceSection from "./components/ExperienceSection/ExperienceSection";
-import EducationSection from "./components/EducationSection";
+import EducationSection from "./components/EducationSection/EducationSection";
 import SkillsSection from "./components/Skills/SkillsSection";
 import moonIcon from "./assets/moon.svg";
 import sunIcon from "./assets/sun.svg";
@@ -42,9 +42,9 @@ function AppContent() {
         </div>
         <Header />
         <MySummary />
+        <SkillsSection />
         <ExperienceSection />
         <EducationSection />
-        <SkillsSection />
       </div>
     </div>
   );
