@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "title": "Résumé",
+    "text": "Ingénieur Assurance Qualité avec plus de 3 ans d'expérience pratique dans la création de suites de tests automatisés en JavaScript. Compétent en Cypress, Selenium et Playwright, avec un succès prouvé dans la migration des processus de tests manuels vers l'automatisation, apportant des améliorations mesurables en couverture et efficacité. Collaborateur solide qui relie les équipes QA, développement et produit pour livrer un logiciel fiable."
+  },
+
+  "experienceTitle": "Expérience",
+  "experience": {
+    "docgo": {
+      "companyName": "DocGo",
+      "companyLocation": "New York, New York",
+      "timeWorked": "Septembre 2024 - Juin 2025",
+      "companyRole": "Ingénieur Assurance Qualité",
+      "jobDetails": [
+        "Création et maintenance de suites de tests E2E, fonctionnels et de régression avec Selenium dans un environnement UNIX",
+        "A aidé à diriger la migration de plus de 200 cas de test vers Qase.io en utilisant JavaScript et Bash, améliorant la couverture de régression de 15 % et accélérant le passage des tests manuels à l'automatisation",
+        "Réalisation de tests manuels pour les applications mobiles/appareils pour les utilisateurs iOS selon les besoins",
+        "Collaboration avec les équipes produit, développement et QA pour aligner les stratégies de test avec les objectifs de livraison"
+      ]
+    },
+
+    "tovuti": {
+      "companyName": "Tovuti, Inc",
+      "companyLocation": "Boise, Idaho",
+      "timeWorked": "Janvier 2022 - Janvier 2024",
+      "companyRole": "Ingénieur Assurance Qualité",
+      "jobDetails": [
+        "Développement d'une automatisation complète des tests E2E et API avec Cypress, réduisant les tests de régression et détectant les défauts plus tôt dans le cycle de développement",
+        "Validation des systèmes backend via des requêtes MySQL et orchestration des exécutions de tests avec Bash",
+        "Gestion de tableaux de bord QA hebdomadaires suivant les résultats des tests, les tendances des défauts et les métriques de préparation au lancement",
+        "Conduite de démonstrations transversales pour former les équipes non techniques aux nouvelles fonctionnalités et produits",
+        "Contribution à la correction des bugs dans le code PHP et gestion de la documentation des tests dans Jira et TestRail",
+        "Outils : GitLab, AWS Device Farm (iOS/Android), OAuth, Okta, pipelines CI/CD"
+      ]
+    }
+  },
+
+  "educationTitle": "Éducation",
+  "education": {
+    "pluralSight": {
+      "companyName": "Pluralsight Full Stack Coding Bootcamp",
+      "companyLocation": "Virtuel",
+      "timeWorked": "Avril 2021 - Juillet 2021",
+      "companyRole": "Étudiant",
+      "jobDetails": [
+        {
+          "type": "text",
+          "value": "Collaboration avec l'ensemble de la cohorte du bootcamp pour créer un site E-commerce utilisant React.js afin de mettre en valeur diverses compétences, telles que la collaboration sur un tableau Kanban, les appels API vers une base de données backend et le style avec React Bootstrap"
+        },
+        {
+          "type": "text",
+          "value": "Développement de la compréhension de la mise à jour en temps réel des requêtes de base de données depuis le frontend pour ajouter/supprimer des données, ainsi que le seeding et la migration de bases avec Express et Sequelize"
+        },
+        {
+          "type": "link",
+          "preText": "",
+          "linkText": "Mis en avant sur Pluralsight",
+          "postText": " comme un exemple de réussite de transition du business à la tech, démontrant mon désir d'apprendre.",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/opportunity-academies-jim-liriano"
+        }
+      ]
+    },
+    "baruch": {
+      "companyName": "Baruch College",
+      "companyLocation": "New York, NY",
+      "timeWorked": "Licence en Administration des Affaires"
+    }
+  },
+
+  "skillsTitle": "Compétences",
+  "skills": {
+    "testFrameworks": [
+      "Cypress",
+      "Selenium",
+      "Playwright",
+      "Appium",
+      "Mocha"
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Bash",
+      "PHP",
+      "SQL"
+    ],
+    "toolsAndPlatforms": [
+      "Postman",
+      "Docker",
+      "AWS",
+      "Jira",
+      "Confluence",
+      "TestRail",
+      "Qase.io",
+      "Git",
+      "Ninety"
+    ],
+    "other": [
+      "React",
+      "Express",
+      "MySQL",
+      "CI/CD",
+      "REST APIs"
+    ]
+  }
+}
