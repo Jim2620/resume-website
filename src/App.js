@@ -50,7 +50,6 @@ function AppContent() {
   );
 }
 
-// Wrap the whole app in LanguageProvider
 function App() {
   return (
     <LanguageProvider>
