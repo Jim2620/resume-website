@@ -5,7 +5,6 @@ import "./SkillsSection.css";
 export default function SkillsSection() {
   const { t } = useTranslation();
 
-  // pull the localized skills object
   const skills = t("skills", { returnObjects: true });
 
   return (

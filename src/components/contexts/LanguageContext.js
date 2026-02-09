@@ -1,4 +1,3 @@
-// LanguageContext.js
 import React, { createContext, useState, useContext } from "react";
 import en from "locales/en.json";
 import es from "locales/es.json";

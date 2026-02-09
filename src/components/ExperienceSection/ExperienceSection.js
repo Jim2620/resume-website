@@ -1,6 +1,6 @@
 import React from "react";
 import SectionList from "../SectionList";
-import { useTranslation } from "../contexts/LanguageContext"; // assuming your LanguageContext exports a useTranslation hook
+import { useTranslation } from "../contexts/LanguageContext"; 
 
 export default function ExperienceSection() {
   const { t } = useTranslation();
